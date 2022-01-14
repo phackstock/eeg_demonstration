@@ -1,1 +1,3 @@
 # this is to demonstrate .gitignore
+__pycache__
+.mypy_cache
